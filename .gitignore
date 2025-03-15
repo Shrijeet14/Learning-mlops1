@@ -1,8 +1,7 @@
-myenv
-models
-reports
-data
-
+/myenv/
+/reports/
+/models/
+/data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
